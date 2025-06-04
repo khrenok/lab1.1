@@ -1,1 +1,2 @@
 First experiance with Git and VS Code
+This string is create from GitHub redactor
